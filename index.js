@@ -20,6 +20,6 @@ function makeInt(a){
   parseInt(a.toString())
 }
 function makeInt(a){
- var parsed = parseInt('0x2328')
-  return(a)
+ parseInt('0x2328')
+  return(0)
 }
