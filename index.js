@@ -19,7 +19,7 @@ function dec(a){
 function makeInt(a){
   parseInt(a.toString())
 }
-function makeInt(a){
- parseInt(a, 10)
+function makeInt(a, 10){
+ parseInt('0x2')
   return(a)
 }
