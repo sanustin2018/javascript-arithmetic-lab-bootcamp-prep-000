@@ -20,6 +20,6 @@ function makeInt(a){
   parseInt(a.toString())
 }
 function makeInt(a, 10){
- parseInt()
+ parseInt('0x2328')
   return(a)
 }
